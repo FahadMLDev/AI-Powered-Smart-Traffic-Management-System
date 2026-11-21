@@ -232,6 +232,9 @@ The following features can be added in future versions:
 **Muhammad Fahad**
 
 AI & Machine Learning Enthusiast | Python Developer | Data Analyst
+
+GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
+
 LinkedIn: [Muhammad Fahad](https://www.linkedin.com/in/muhammad-fahad-analyst/)
 
 ---
